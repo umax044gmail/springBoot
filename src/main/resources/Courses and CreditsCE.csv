@@ -1,0 +1,510 @@
+Course ID,Course Name,Credits
+CE201,Mechanics of Materials I,3
+CE202,Fluid Mechanics I,3
+CE203,Surveying,3
+CE204,Geomechanics,3
+CE205,Engineering Hydrology,3
+CE206,Civil Engineering Field Work,3
+CE207,Materials Science I,3
+CE208,Structural Analysis I,3
+CE209,Building Construction,3
+CE210,Engineering Surveying,3
+CE219,Civil Engineering Laboratory I,1
+CE301,Mechanics of Materials II,3
+CE302,Environmental Engineering,3
+CE303,Transportation Engineering,3
+CE304,Fluid Mechanics II,3
+CE305,Hydraulics,3
+CE306,Design of Structures I,3
+CE307,Finite Element Methods in Solid Mechanics,3
+CE308,Geotechnical Design,2
+CE309,Materials Science II,3
+CE310,Geotechnical Engineering,3
+CE311,Hydraulic Engineering & Design,3
+CE312,Design of Structures II,3
+CE313,Marketing & Finance,3
+CE314,Civil Engineering Laboratory I,2
+CE315,Civil Engineering Laboratory II,1
+CE316,Advanced Mechanics of Materials,2
+CE317,Civil Engineering Field Work,3
+CE318,Transportation & Highway Engineering,3
+CE319,Civil Engineering Laboratory II,1
+CE320,Civil Engineering Laboratory III,1
+CE401,Mechanics of Materials III,3
+CE402,Multi-Disciplinary Design Project,3
+CE403,Construction Management,3
+CE405,Civil Engineering Project I,3
+CE406,Civil Engineering Project II,3
+CE511,Advanced Geomechanics,3
+CE512,Foundation Engineering,3
+CE513,Geotechnics Design & Construction,3
+CE514,Ground Improvement & Geosynthetics,2
+CE515,Geohazard Management,2
+CE521,Advanced Geomechanics,2
+CE522,Foundation Engineering,2
+CE523,Geotechnical Design & Construction,2
+CE530,Transportation Planning & Traffic Engineering,3
+CE531,Highway Engineering,3
+CE532,Highway Engineering & Design,2
+CE533,Traffic Engineering,2
+CE535,Transportation Planning,2
+CE541,Hydraulic Structures,3
+CE542,Hydraulic Structures,2
+CE544,Coastal Engineering & Coastal Zone Management,3
+CE545,Coastal Engineering & Coastal Zone Management,2
+CE552,Irrigation & Drainage Engineering,3
+CE553,Irrigation & Drainage Engineering,2
+CE557,Hydropower Development,3
+CE559,GIS in Water Resources Engineering,2
+CE560,Integrated River Basin Management,3
+CE561,Integrated River Basin Management,2
+CE567,Industrial Pollution Control,3
+CE568,Industrial Pollution Control,2
+CE569,Water Supply & Waste Water Engineering,3
+CE570,Water Supply & Wastewater Engineering,2
+CE571,Environmental Health & Sanitation,2
+CE581,Advanced Mechanics of Materials,3
+CE582,Concrete Technology,3
+CE583,Construction Planning,3
+CE584,Computer Aided Structural Design,3
+CE585,Advanced Structural Design,3
+CE586,Dynamics of Structures,2
+CE587,Design of Structures III,2
+CE588,Construction Equipment & Material Management,2
+CE591,Design of High-rise Buildings,2
+CE592,Concrete Technology,2
+CE593,Construction Planning,2
+CE594,Computer Aided Structural Analysis & Design,2
+CE595,Disaster Management,3
+CE596,GIS & Remote Sensing RS for Civil Engineers,3
+CE598,GIS & RS for Civil Engineers,2
+CE599,Disaster Management,2
+CO201,Logic Networks & Computer Organization,3
+CO202,Computer Programming,3
+CO203,Computer Architecture,3
+CO204,Digital Systems Design Laboratory,3
+CO211,Logic Networks,3
+CO212,Computer Programming,3
+CO213,Computer Architecture,3
+CO214,Data Structures & Algorithms,3
+CO221,Logic Networks,3
+CO222,Programming Methodology,3
+CO223,Computer Communication Networks,3
+CO224,Computer Architecture,3
+CO225,Software Construction,3
+CO226,Database Systems,3
+CO227,Computer Engineering Project,2
+CO252,Introduction to Programming & Networking for Electrical Engineering,3
+CO253,Introduction to Programming & Networking for Electrical Engineering,3
+CO301,Data Structures & Algorithms,4
+CO302,Computer & Data Networks,3
+CO303,Computer Interfacing,3
+CO304,Operating Systems,3
+CO310,Communication Skills for Computer Engineering,1
+CO311,Computer & Data Networks,3
+CO312,Database Systems,3
+CO313,Operating Systems,3
+CO314,Systems & Network Programming Lab & Project I,1
+CO315,Computer Interfacing,3
+CO316,Software Engineering,3
+CO317,Computer & Network Security,3
+CO318,Systems & Network Programming & Project II,1
+CO321,Embedded Systems,3
+CO322,Data Structures & Algorithms,3
+CO323,Computer Communication Networks II,3
+CO324,Network & Web Application Design,3
+CO325,Computer & Network Security,3
+CO326,Computer Systems Engineering,3
+CO327,Operating Systems,3
+CO328,Software Engineering,3
+CO401,Individual Project I,3
+CO402,Individual Project II,3
+CO411,Individual Project I,3
+CO412,Individual Project II,3
+CO421,Final Year Project I,3
+CO422,Professional Practices,2
+CO423,Software Project Management,2
+CO424,Information Systems Management,2
+CO425,Final Year Project II,3
+CO501,Embedded Systems and Microprocessors,3
+CO502,Advanced Computer Architecture,3
+CO503,Advanced Embedded Systems,3
+CO511,Advanced Computer Networks,3
+CO512,Cryptography & Network Security,3
+CO513,Advanced Computer Communication Networks,3
+CO514,Optical Communication Networks,3
+CO515,Selected Topics in Advanced Computer Networks,3
+CO521,Compilers,3
+CO522,Database Systems,3
+CO523,Programming Languages,3
+CO524,Parallel Computers & Algorithms,3
+CO525,Software Engineering,3
+CO526,Advanced Operating Systems,3
+CO527,Advanced Database Systems,3
+CO528,Applied Software Architecture,3
+CO541,Artificial Intelligence,3
+CO542,Neural Networks & Fuzzy Systems,3
+CO543,Image Processing,3
+CO544,Machine Learning & Data Mining,3
+CO551,Theory of Computation,3
+CO552,Game Theory & Markov Decision Processes,3
+CO553,Techniques for Complex Reactive Systems,3
+CP201,Chemical Engineering Fundamentals,3
+CP202,Separation Process Principles,3
+CP203,Selected Topics of Chemistry for Engineers,3
+CP204,Chemical Reaction Engineering,3
+CP301,Chemical Engineering Fundamentals,3
+CP302,Separation Process Principles,3
+CP303,Reaction Engineering,3
+CP304,Process Equipment Design,3
+CP305,Energy Systems Design,3
+CP306,Industrial Safety & Pollution Prevention,3
+CP307,Process Engineering Project,2
+CP308,Process Engineering Project & Seminar,3
+CP309,Biological Process Engineering,3
+CP310,Sustainability Assessment & Eco-innovation,3
+CP312,Industrial Safety & Health,3
+CP314,Process Control Systems,3
+CP401,Undergraduate Project,3
+CP402,Design Project,3
+CP403,Process Engineering Project,2
+CP404,Basics in Process Engineering Design Project,2
+CP405,Advanced Process Engineering Design Project,2
+CP406,Industrial Safety & Health,3
+CP407,Independent Study,3
+CP408,Basics in Process Engineering Design Project,3
+CP409,Advanced Process Engineering Design Project,3
+CP501,Independent Study,3
+CP502,Advanced Fluid Mechanics,3
+CP503,Industrial Process Technology,3
+CP504,Biological Process Engineering,3
+CP505,Instrumentation & Measurement,3
+CP506,Industrial Pollution Control System Design,3
+CP507,Process Engineering Research Project,3
+CP508,Energy Technology for the Process Industry,3
+CP509,Petroleum Engineering,3
+CP510,Industrial Fluid Mechanics,2
+CP511,Food Process Engineering,3
+CP512,Environmental Management Systems,3
+CP513,Industrial Fluid Mechanics,3
+CP514,Sustainability for Process Industry,1
+CP515,Modelling & Simulation of Simultaneous Transport Phenomena with MATLAB® & COMSOL Multiphysics®,3
+CP518,Polymer Science & Engineering,3
+CP520,Modelling & Simulation of Simultaneous Transport Phenomena,3
+ECE201,Network Analysis,3
+ECE202,Electronic Devices,3
+ECE205,Logic Networks & Computer Organization,3
+ECE207,Mathematical Techniques in Electrical Engineering,3
+ECE208,Computer Programing,3
+ECE280,Introduction to Electrical Engineering I,3
+EE201,Network Analysis,3
+EE202,Electronic Circuits,3
+EE203,Electrical Measurements & Instrumentation,3
+EE204,Signals & Systems,3
+EE205,Digital Systems,3
+EE206,Electric Power,3
+EE210,Electrical & Electronic Engineering Laboratory I,3
+EE221,Electronic Devices,4
+EE222,Electrical Measurements & Instrumentation,2
+EE223,Digital Instrumentation,2
+EE224,Signals & Systems,4
+EE225,Electric Power,4
+EE251,Principles of Electrical Measurements,3
+EE252,Electronic Devices & Circuits,3
+EE253,Digital Logic Design,3
+EE254,Electronic Instrumentation,3
+EE255,Electric Power,2
+EE256,Power & Energy,2
+EE257,Signals & Systems,3
+EE280,Introduction to Electrical Engineering I,3
+EE281,Introduction to Electrical Engineering II,3
+EE282,Network Analysis for Computer Engineering,3
+EE283,Signals & Systems for Computer Engineering,3
+EE284,Electronic Devices & Circuits I,3
+EE285,Electronics I,3
+EE301,Electromagnetics,3
+EE302,Electronics,3
+EE303,Digital Signal Processing,2
+EE304,Electrical Machines & Drives,3
+EE305,Communications,3
+EE306,Embedded Systems Design,2
+EE307,Automatic Control,3
+EE308,Information Systems Engineering,3
+EE310,Electrical & Electronic Engineering Laboratory II,2
+EE311,Electrical & Electronic Engineering Laboratory III,2
+EE320,Electromagnetic Theory,2
+EE321,Electronic Circuits,4
+EE322,Embedded Systems Design,3
+EE323,Automatic Control,4
+EE324,Communication Systems,4
+EE325,Digital Signal Processing,3
+EE326,Electrical Machines & Drives,4
+EE327,Information System Engineering,2
+EE328,Applied Electromagnetics,2
+EE329,Product Design & Management,3
+EE351,Electronic Circuits,3
+EE352,Automatic Control,2
+EE353,Discrete Time Control Systems,3
+EE354,Power Engineering,3
+EE355,Applied Electromagnetics,3
+EE356,Electronic Product Design & Manufacture,3
+EE357,Communication Systems,3
+EE358,Electrical Machines,3
+EE380,Electrical Power & Machines,3
+EE381,Machines & Drives,3
+EE382,Electronic Devices & Circuits II,3
+EE383,Electronic Laboratory,2
+EE384,Communication Engineering,3
+EE385,Digital Signals & Systems,2
+EE386,Electronic Devices & Circuits II,3
+EE387,Signal Processing,4
+EE401,Communication Theory,3
+EE402,Advanced Control Systems,3
+EE403,Integrated Analog Electronic Circuits,3
+EE404,Electric Power Systems,3
+EE405,Undergraduate Project I,3
+EE406,Undergraduate Project II,3
+EE501,Advanced Control Systems,3
+EE511,Antennas & Propagation,3
+EE512,Communication Theory,3
+EE513,Telecommunication Engineering,3
+EE514,Data Communications,3
+EE515,Adaptive Signal Processing,3
+EE516,Wireless Communication Systems,2
+EE517,Antenna Design,2
+EE518,Digital Communication,3
+EE519,Information Theory & Coding,3
+EE520,Wireless Communication Systems,3
+EE521,Computer Networks Laboratory,3
+EE522,Telecommunication & Wireless Communication Systems,3
+EE531,Advanced Electrical Machines & Drives,3
+EE532,Real-time Control Systems,3
+EE533,Optimal & Multivariable Control,3
+EE534,Estimation & Identification,3
+EE535,Nonlinear & Adaptive Systems,3
+EE536,Industrial Robotics,3
+EE538,Electrical Machines & Drive Systems,3
+EE539,Nonlinear & Multivariable Systems,3
+EE540,Nanotechnology for Electrical and Electronic Engineering Applications,3
+EE548,Undergraduate Project I,3
+EE549,Undergraduate Project II,3
+EE551,Advanced Electronic Circuits,3
+EE552,VLSI Design,3
+EE553,Optoelectronics,3
+EE554,Microwave Techniques,3
+EE555,Electronic Design Technology,2
+EE556,Electronic Design Automation,3
+EE557,Semiconductor Devices,3
+EE558,Power Electronics,3
+EE559,Integrated Analog Electronic Circuits,3
+EE561,Industrial Instrumentation,3
+EE562,Biomedical Instrumentation,3
+EE563,Biomedical Engineering I,3
+EE564,Biomedical Engineering II,3
+EE571,Distribution Systems,3
+EE572,Electric Power Systems,3
+EE573,AC Machine Analysis,3
+EE574,Power System Dynamics & Control,3
+EE575,Power Electronic Applications & Design,3
+EE576,High Voltage Engineering,3
+EE577,Power System Modelling & Analysis,3
+EE578,Modern Transmission Systems,2
+EE580,Introduction to Biomedical Engineering,3
+EE581,Real-time Computer Systems,3
+EE582,Computer Architecture,3
+EE583,Image Processing,3
+EE584,Artificial Intelligence,3
+EE585,Multimedia Systems,3
+EE586,Digital Electronics,3
+EE587,Digital Systems Design & Synthesis,3
+EE588,Speech & Audio Signal Processing,3
+EE590,Speech Recognition & Synthesis,3
+EE591,CAD Techniques in Electrical Devices,2
+EE592,Modern Power Systems,3
+EE593,Advanced Signal Processing,3
+EE594,Industrial Robotics & Automation,3
+EE595,Machine Intelligence & Smart Systems,3
+EE596,Image & Video Coding,3
+EE599,Audio Engineering & Acoustics,3
+EM201,Mathematics III,3
+EM202,Mathematics IV,3
+EM203,Numerical Methods in Chemical & Process Engineering,3
+EM204,Differential Equations,3
+EM211,Ordinary Differential Equations,2
+EM212,Calculus,2
+EM213,Probability & Statistics,2
+EM214,Discrete Mathematics,3
+EM215,Numerical Methods,3
+EM216,Differential Equations,3
+EM217,Advanced Calculus,3
+EM308,Complex Analysis,2
+EM309,Industrial Statistics,3
+EM310,Operations Research I,3
+EM311,Mathematical Modelling,2
+EM312,Fourier Analysis,3
+EM313,Discrete Mathematics,3
+EM314,Numerical Analysis,3
+EM315,Numerical Methods for Civil Engineers,2
+EM316,Numerical Methods for Electrical & Electronic Engineers,2
+EM317,Computational Methods,3
+EM501,Operations Research II,2
+EM502,Optimization,3
+EM503,Graph Theory,2
+EM504,Evolutionary Algorithms,2
+EM505,Complex Analysis,3
+EM506,Design of Algorithms,2
+EM507,System Simulation,2
+EM508,Symbolic Mathematics,2
+EM509,Stochastic Processes,2
+EM510,Decision Theory,2
+EM511,Regression Analysis,2
+EM512,Sampling Theory,1
+EM513,Design & Analysis of Experiments,2
+EM514,Partial Differential Equations,2
+EM515,Eigen Function Methods for Differential Equations,2
+EM516,Advanced Engineering Dynamics,2
+EM517,Nonlinear Dynamical System,2
+EM518,Advanced Numerical Methods,2
+EM519,Introduction to Finite Element Method,2
+EM520,Solar Radiation,2
+EM521,Integral Equations,2
+EM522,Tensors,2
+EM523,Calculus of Variations,2
+EM524,Design & Analysis of Experiments,3
+EM525,Bayesian Statistics,3
+EM526,Industrial Statistics,3
+EM527,Operational Research I,3
+GP101,English I,3
+GP102,English II,3
+GP103,Mathematics I,3
+GP104,Mathematics II,3
+GP106,Computing,3
+GP108,Electricity,3
+GP109,Materials Science,3
+GP110,Engineering Mechanics,3
+GP111,Elementary Thermodynamics,3
+GP112,Engineering Measurements,3
+GP113,Fundamentals of Manufacture,3
+GP114,Engineering Drawing,3
+GP115,Calculus !,3
+GP116,Linear Algebra,3
+GP118,Basic Electrical & Electronic Engineering,3
+MA201,Engineering Management,3
+MA205,Management for Engineers,3
+MA210,Engineering Ethics,1
+MA501,Accounting and Finance for Engineers,3
+ME201,Mechanics of Machines,3
+ME202,Mechanical Engineering for Civil Engineers,3
+ME203,Machine Drawing,3
+ME204,Mechanics of Machines for Electrical Engineers,3
+ME205,Tribology & Power Transmission Elements,3
+ME207,Applied Thermodynamics I,3
+ME208,Thermodynamics for Electrical Engineers,3
+ME209,Machine Design I,3
+ME210,Thermodynamics for Electrical & Electronic Engineers,2
+ME211,Mechanics of Machines,3
+ME213,Computer Aided Drafting & Solid Modelling,3
+ME220,Engineering Design & Innovation,3
+ME221,Mechanics of Machines,3
+ME222,Design of Machine Elements,3
+ME223,Applied Thermodynamics I,3
+ME224,Occupational Health & Safety,2
+ME301,Vibrations,3
+ME302,Machine Design II,3
+ME303,Applied Thermodynamics II,3
+ME304,Maintenance Management,3
+ME306,Control Systems,3
+ME308,Mechanical Engineering Project I,3
+ME309,Mechanical Engineering Project I,3
+ME320,Dynamics of Mechanical Systems,3
+ME321,Control Systems,3
+ME322,Mechanical Engineering Laboratory I,1
+ME323,Applied Thermodynamics II,3
+ME324,Finite Element Analysis for Mech.Design,3
+ME325,Mechanical Engineering Group Project,3
+ME326,Introduction to Research Methods,1
+ME327,Vibration,3
+ME328,Machine Design,3
+ME329,Thermal Systems Design,3
+ME330,Energy Technology,3
+ME405,Mechanical Engineering Project II,6
+ME406,Mechanical Engineering Group Project I,3
+ME407,Mechanical Engineering Group Project II,3
+ME420,Mechanical Engineering Individual Research Project,6
+ME501,Heat Transfer,2
+ME502,Ergonomics,2
+ME503,Composite Materials,2
+ME504,Asset Management,2
+ME505,Advanced Control Engineering,2
+ME506,Digital Systems Engineering,2
+ME507,Mechatronics,2
+ME508,Automobile Engineering,2
+ME509,Non-linear Control Systems,2
+ME510,Computer Applications in Mechanical Engineering,2
+ME511,Advanced Vibration Theory,2
+ME512,Energy Technology,2
+ME513,Applied Thermodynamics III,2
+ME514,Maintenance Management,2
+ME515,Mechatronics,3
+ME517,Project on Introduction to Robotics,2
+ME518,Rigid Body Mechanics,3
+ME520,Computer Aided Modeling & Finite Element,3
+PR201,Manufacturing Technology I,3
+PR202,Production Planning & Control I,3
+PR203,Manufacturing Technology I,3
+PR204,Product Design & Development,3
+PR205,Machining Technology,3
+PR206,Manufacturing Planning & Control,3
+PR301,Manufacturing Technology II,3
+PR302,Production Planning & Control II,3
+PR303,Machine Tool Engineering,3
+PR304,Production Engineering,3
+PR305,Industrial Automation,3
+PR306,Introduction to Industrial Automation,3
+PR307,Advanced Topics in Industrial Automation,3
+PR308,Production Engineering,3
+PR310,Production Engineering for Mechanical Engineers,3
+PR311,Production Engineering for Mechanical Engineers,3
+PR312,Manufacturing Technology II,3
+PR314,Manufacturing Automation,3
+PR315,Manufacturing Systems,3
+PR316,Forming Processes,3
+PR317,Quality & Reliability Engineering,3
+PR401,Management Principles & Industrial Psychology,3
+PR402,"Industrial Law, Economics & Accounting",3
+PR404,CAD/CAM,3
+PR406,Industrial Assignment,6
+PR407,Independent Research Project,3
+PR408,Industrial Engineering & Decision Sciences,3
+PR409,Management Principles & Economics,3
+PR410,Manufacturing Engineering Project I,3
+PR411,Manufacturing Engineering Project II,3
+PR501,Simulation & Performance Evaluation of Manufacturing Systems,3
+PR502,Robot Dynamics & Control,3
+PR503,Control of Discrete Event Dynamics Systems,3
+PR504,Artificial Intelligence,2
+PR505,Production Cost Analysis,2
+PR506,Manufacturing Processes,3
+PR508,Product Design for Production,2
+PR509,Plant Layout & Plant Management,3
+PR510,Manufacturing Technology III,3
+PR511,Design for Manufacture,3
+PR512,Introduction to Artificial Intelligence,3
+PR513,Modeling and Control of Mechatronic Systems,3
+PR515,Financial & Management Accounting for Engineers,3
+PR516,Sustainable Manufacturing,3
+PR517,Lean Manufacturing,3
+PR518,Performance Evaluation of Manufacturing Systems,3
+PR519,Robotics & Autonomous Systems,3
+PR521,Additive Manufacturing,3
+QE101,English I,3
+QE103,Mathematics I,3
+QE104,Mathematics II,3
+QE105,Engineering Drawing,3
+QE106,Computing,3
+QE107,Workshop Technology,3
+QE108,Electricity,3
+QE109,Materials Science,3
+QE110,Engineering Mechanics,3
+QE111,Elementary Thermodynamics,3
+QE112,Engineering Measurements,3
